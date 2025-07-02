@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheADHDTechie
 - 👀 I’m interested in C#, .NET, Web, Backend and API development
-- 🌱 I’m currently learning PHP and Laravel
+- 🌱 I’m currently learning about the compiler and AI
 - 💞️ I’m looking to collaborate on open sourced projects with the goal to directly impact lives
 - 📫 How to reach me: shoot me an email on mkaburi02@gmail.com
 
